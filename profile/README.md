@@ -2,46 +2,63 @@
 
 # ultrArslanoglu
 
-### İşletmeler için yazılım, yapay zekâ ve otomasyon.
-### Software, AI and automation for businesses.
+**Software, AI & automation for everyday business.**
 
-[Web sitesi](https://ultrarslanoglu.com) · [İletişim](mailto:support@ultrarslanoglu.com) · [Instagram](https://www.instagram.com/ultrarslanoglu/) · [YouTube](https://www.youtube.com/@ultrarslanoglu)
+[Website](https://ultrarslanoglu.com) · [Contact](mailto:support@ultrarslanoglu.com)
 
 </div>
 
 ---
 
-## Ne geliştiriyoruz?
+We build practical web applications, AI assistants and integrations that help businesses connect their tools and simplify daily work.
 
-İşletmelerin dijital süreçlerini bir araya getiren web uygulamaları, yapay zekâ destekli araçlar ve otomasyonlar geliştiriyoruz. Odağımız; günlük işleri kolaylaştıran, mobil cihazlarda kullanılabilen ve gerçek ihtiyaçlara göre gelişen ürünler.
+### What we build
 
-| Çalışma alanı | Odak |
-| --- | --- |
-| Web ve mobil deneyim | Kurumsal web siteleri, web uygulamaları ve PWA |
-| Yapay zekâ | Sohbet arayüzleri, asistanlar ve iş akışı desteği |
-| İş otomasyonu | API entegrasyonları ve tekrarlayan süreçlerin otomasyonu |
-| İşletme araçları | Katalog, sipariş ve operasyon yönetimi |
+- **Web applications** — Business websites, mobile-friendly apps and PWAs.
+- **AI & automation** — Conversational tools, API integrations and connected workflows.
+- **Business tools** — Product catalogs, quote preparation and operations.
 
-## Üzerinde çalıştığımız ürünler
+### In development
 
-**ultrAForma** — Mimari ve iç mekân tasarımı için ürün kataloglarını ve tasarım süreçlerini bir araya getirmeyi amaçlayan uygulamamız. Geliştirme aşamasında.
+**ultrAForma**  
+Custom furniture design, product configuration and quote workflows.
 
-**Merkezi yönetim asistanı** — İşletme araçlarını ve iş akışlarını tek bir sohbet deneyiminden yönetme hedefiyle geliştirdiğimiz asistan. Geliştirme aşamasında.
+**Central management assistant**  
+A conversational workspace for connected business tools and everyday tasks.
 
-## Birlikte çalışalım
-
-İşletmenizin ihtiyacını veya iş birliği fikrinizi paylaşmak için: **[support@ultrarslanoglu.com](mailto:support@ultrarslanoglu.com)**
-
-[Web sitesi](https://ultrarslanoglu.com) · [Instagram](https://www.instagram.com/ultrarslanoglu/) · [Facebook](https://www.facebook.com/profile.php?id=61595805778468) · [YouTube](https://www.youtube.com/@ultrarslanoglu)
+Both products are under active development.
 
 ---
 
-## About us
+<details>
+<summary><strong>Türkçe · Hakkımızda</strong></summary>
 
-We build web applications, AI-assisted tools and automations that connect everyday business workflows. Our focus is practical software that works across devices and evolves with real business needs.
+### İşletmeler için yazılım, yapay zekâ ve otomasyon
 
-Our work spans business websites and PWAs, conversational assistants, API integrations, and catalog, order and operations tools.
+İşletmelerin kullandığı araçları birbirine bağlayan, günlük işleri kolaylaştıran web uygulamaları, yapay zekâ asistanları ve entegrasyonlar geliştiriyoruz.
 
-We are developing **ultrAForma** for architectural and interior design workflows, alongside a **central management assistant** for connected business tools. Both products are in development.
+### Neler geliştiriyoruz?
 
-For projects and partnerships, contact **[support@ultrarslanoglu.com](mailto:support@ultrarslanoglu.com)**.
+- **Web uygulamaları** — Kurumsal siteler, mobil uyumlu uygulamalar ve PWA'lar.
+- **Yapay zekâ ve otomasyon** — Sohbet araçları, API entegrasyonları ve bağlantılı iş akışları.
+- **İşletme araçları** — Ürün katalogları, teklif hazırlama ve operasyon süreçleri.
+
+### Geliştirme aşamasında
+
+**ultrAForma**  
+Ölçüye özel mobilya tasarımı, ürün yapılandırma ve teklif süreçleri.
+
+**Merkezi yönetim asistanı**  
+İşletme araçlarını ve günlük işleri sohbet üzerinden bir araya getiren çalışma alanı.
+
+İki ürün de aktif olarak geliştiriliyor.
+
+Proje ve iş birlikleri için: [support@ultrarslanoglu.com](mailto:support@ultrarslanoglu.com)
+
+</details>
+
+---
+
+**Projects & partnerships** · [support@ultrarslanoglu.com](mailto:support@ultrarslanoglu.com)
+
+[Instagram](https://www.instagram.com/ultrarslanoglu/) · [YouTube](https://www.youtube.com/@ultrarslanoglu) · [Facebook](https://www.facebook.com/profile.php?id=61595805778468)
